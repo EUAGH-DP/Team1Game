@@ -1,7 +1,37 @@
 fileFormatVersion: 2
-guid: 396b92d5d32fe8a44954988e2d92936c
+guid: 155293e0a33e9714cbeb3db40a3f55b8
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -5434070913908769831
+    second: GrassAndFlowers_0
+  - first:
+      213: -8107072641903552609
+    second: GrassAndFlowers_1
+  - first:
+      213: -6630143501118961832
+    second: GrassAndFlowers_2
+  - first:
+      213: -6049227929098871226
+    second: GrassAndFlowers_3
+  - first:
+      213: 4976764389296679923
+    second: GrassAndFlowers_4
+  - first:
+      213: -8051363056123259929
+    second: GrassAndFlowers_5
+  - first:
+      213: 8703554666529480933
+    second: GrassAndFlowers_6
+  - first:
+      213: 5936160035757898331
+    second: GrassAndFlowers_7
+  - first:
+      213: 39135742185322091
+    second: GrassAndFlowers_8
+  - first:
+      213: 126202806268232944
+    second: GrassAndFlowers_9
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,12 +70,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 155
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -69,13 +99,234 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: GrassAndFlowers_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 172
+        width: 266
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d854f4dba732a4db774443f8c18ca6
+      internalID: -5434070913908769831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassAndFlowers_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 172
+        width: 266
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f95ad91597c4142be56f3005d1b7d3
+      internalID: -8107072641903552609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassAndFlowers_2
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 172
+        width: 266
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a474625c478754cb403b48cf90dded
+      internalID: -6630143501118961832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassAndFlowers_3
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 172
+        width: 265
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3648884c4c1b7a540bea8158490d5b24
+      internalID: -6049227929098871226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassAndFlowers_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 78
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab312bc84dd6dd4ca70824d7eb5398d
+      internalID: 4976764389296679923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassAndFlowers_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 3
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7fe5917a0bf2c4f9badee35d2e483b
+      internalID: -8051363056123259929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassAndFlowers_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc577b462ed8a44eb98a120fe6d17f9
+      internalID: 8703554666529480933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassAndFlowers_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1
+        width: 41
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f44c33e7fe113458ee4a80ba4fc33d
+      internalID: 5936160035757898331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassAndFlowers_8
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 10
+        width: 77
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a20679b6aeebd4e9c8067bddfbc1c9
+      internalID: 39135742185322091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassAndFlowers_9
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 17
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4764ec480d364e43bcb8a43892c3b2f
+      internalID: 126202806268232944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 531b3efc9fd5a794a941b6e61b9421d0
+    spriteID: b489b39594574b345983b8cfd9776fce
     internalID: 0
     vertices: []
     indices: 
