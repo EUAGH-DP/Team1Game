@@ -1,4 +1,5 @@
 ﻿
+
     void Start()
     {
         offset = new Vector2(Mathf.Abs(offset.x), offset.y);
